@@ -1,0 +1,12 @@
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\obj\Debug\FormuEstante.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\obj\Debug\FormuEstante.Properties.Resources.resources
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\obj\Debug\FormuEstante.csproj.GenerateResource.Cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\bin\Debug\FormuEstante.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\bin\Debug\FormuEstante.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\bin\Debug\FormuEstante.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\bin\Debug\Silva.Cristian.2C.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\bin\Debug\Silva.Cristian.2C.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\bin\Debug\Silva.Cristian.2C.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\obj\Debug\FormuEstante.FormEstante.resources
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\obj\Debug\FormuEstante.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 4\Silva.Cristian.2C\FormuEstante\obj\Debug\FormuEstante.pdb

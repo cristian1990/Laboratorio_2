@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 2\Silva.Cristian.2C\Silva.Cristian.2C\bin\Debug\Silva.Cristian.2C.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 2\Silva.Cristian.2C\Silva.Cristian.2C\bin\Debug\Silva.Cristian.2C.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 2\Silva.Cristian.2C\Silva.Cristian.2C\bin\Debug\Silva.Cristian.2C.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 2\Silva.Cristian.2C\Silva.Cristian.2C\obj\Debug\Silva.Cristian.2C.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 2\Silva.Cristian.2C\Silva.Cristian.2C\obj\Debug\Silva.Cristian.2C.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 2\Silva.Cristian.2C\Silva.Cristian.2C\obj\Debug\Silva.Cristian.2C.pdb
