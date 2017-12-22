@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable\Interface IEnumerable\bin\Debug\Interface IEnumerable.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable\Interface IEnumerable\bin\Debug\Interface IEnumerable.exe
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable\Interface IEnumerable\bin\Debug\Interface IEnumerable.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable\Interface IEnumerable\obj\Debug\Interface IEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable\Interface IEnumerable\obj\Debug\Interface IEnumerable.exe
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable\Interface IEnumerable\obj\Debug\Interface IEnumerable.pdb

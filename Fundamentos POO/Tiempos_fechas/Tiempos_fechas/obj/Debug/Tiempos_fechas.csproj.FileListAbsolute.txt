@@ -1,0 +1,5 @@
+C:\Users\cristian\Desktop\Proyectos C#\Tiempos_fechas\Tiempos_fechas\bin\Debug\Tiempos_fechas.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Tiempos_fechas\Tiempos_fechas\bin\Debug\Tiempos_fechas.exe
+C:\Users\cristian\Desktop\Proyectos C#\Tiempos_fechas\Tiempos_fechas\bin\Debug\Tiempos_fechas.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Tiempos_fechas\Tiempos_fechas\obj\Debug\Tiempos_fechas.exe
+C:\Users\cristian\Desktop\Proyectos C#\Tiempos_fechas\Tiempos_fechas\obj\Debug\Tiempos_fechas.pdb

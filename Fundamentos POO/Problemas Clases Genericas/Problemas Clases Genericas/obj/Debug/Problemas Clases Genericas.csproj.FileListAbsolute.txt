@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Problemas Clases Genericas\Problemas Clases Genericas\bin\Debug\Problemas Clases Genericas.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Problemas Clases Genericas\Problemas Clases Genericas\bin\Debug\Problemas Clases Genericas.exe
+C:\Users\cristian\Desktop\Proyectos C#\Problemas Clases Genericas\Problemas Clases Genericas\bin\Debug\Problemas Clases Genericas.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Problemas Clases Genericas\Problemas Clases Genericas\obj\Debug\Problemas Clases Genericas.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Problemas Clases Genericas\Problemas Clases Genericas\obj\Debug\Problemas Clases Genericas.exe
+C:\Users\cristian\Desktop\Proyectos C#\Problemas Clases Genericas\Problemas Clases Genericas\obj\Debug\Problemas Clases Genericas.pdb

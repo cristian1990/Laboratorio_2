@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\CAP5\ArrayBidimensional\ArrayBidimensional\obj\Debug\ArrayBidimensional.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\CAP5\ArrayBidimensional\ArrayBidimensional\bin\Debug\ArrayBidimensional.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\CAP5\ArrayBidimensional\ArrayBidimensional\bin\Debug\ArrayBidimensional.exe
+C:\Users\cristian\Desktop\Proyectos C#\CAP5\ArrayBidimensional\ArrayBidimensional\bin\Debug\ArrayBidimensional.pdb
+C:\Users\cristian\Desktop\Proyectos C#\CAP5\ArrayBidimensional\ArrayBidimensional\obj\Debug\ArrayBidimensional.exe
+C:\Users\cristian\Desktop\Proyectos C#\CAP5\ArrayBidimensional\ArrayBidimensional\obj\Debug\ArrayBidimensional.pdb

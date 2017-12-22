@@ -1,0 +1,5 @@
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Calculadora_Bool_If\Calculadora_Bool_If\bin\Debug\Calculadora_Bool_If.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Calculadora_Bool_If\Calculadora_Bool_If\bin\Debug\Calculadora_Bool_If.exe
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Calculadora_Bool_If\Calculadora_Bool_If\bin\Debug\Calculadora_Bool_If.pdb
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Calculadora_Bool_If\Calculadora_Bool_If\obj\Debug\Calculadora_Bool_If.exe
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Calculadora_Bool_If\Calculadora_Bool_If\obj\Debug\Calculadora_Bool_If.pdb

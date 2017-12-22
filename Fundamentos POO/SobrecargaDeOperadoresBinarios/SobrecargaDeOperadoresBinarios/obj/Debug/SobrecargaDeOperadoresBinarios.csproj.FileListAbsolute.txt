@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadoresBinarios\SobrecargaDeOperadoresBinarios\bin\Debug\SobrecargaDeOperadoresBinarios.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadoresBinarios\SobrecargaDeOperadoresBinarios\bin\Debug\SobrecargaDeOperadoresBinarios.exe
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadoresBinarios\SobrecargaDeOperadoresBinarios\bin\Debug\SobrecargaDeOperadoresBinarios.pdb
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadoresBinarios\SobrecargaDeOperadoresBinarios\obj\Debug\SobrecargaDeOperadoresBinarios.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadoresBinarios\SobrecargaDeOperadoresBinarios\obj\Debug\SobrecargaDeOperadoresBinarios.exe
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadoresBinarios\SobrecargaDeOperadoresBinarios\obj\Debug\SobrecargaDeOperadoresBinarios.pdb

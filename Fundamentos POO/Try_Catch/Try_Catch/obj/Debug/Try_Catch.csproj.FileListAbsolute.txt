@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Try_Catch\Try_Catch\bin\Debug\Try_Catch.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Try_Catch\Try_Catch\bin\Debug\Try_Catch.exe
+C:\Users\cristian\Desktop\Proyectos C#\Try_Catch\Try_Catch\bin\Debug\Try_Catch.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Try_Catch\Try_Catch\obj\Debug\Try_Catch.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Try_Catch\Try_Catch\obj\Debug\Try_Catch.exe
+C:\Users\cristian\Desktop\Proyectos C#\Try_Catch\Try_Catch\obj\Debug\Try_Catch.pdb

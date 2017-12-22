@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Modularidad_Y_Encapsulamiento\Modularidad_Y_Encapsulamiento\bin\Debug\Modularidad_Y_Encapsulamiento.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Modularidad_Y_Encapsulamiento\Modularidad_Y_Encapsulamiento\bin\Debug\Modularidad_Y_Encapsulamiento.exe
+C:\Users\cristian\Desktop\Proyectos C#\Modularidad_Y_Encapsulamiento\Modularidad_Y_Encapsulamiento\bin\Debug\Modularidad_Y_Encapsulamiento.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Modularidad_Y_Encapsulamiento\Modularidad_Y_Encapsulamiento\obj\Debug\Modularidad_Y_Encapsulamiento.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Modularidad_Y_Encapsulamiento\Modularidad_Y_Encapsulamiento\obj\Debug\Modularidad_Y_Encapsulamiento.exe
+C:\Users\cristian\Desktop\Proyectos C#\Modularidad_Y_Encapsulamiento\Modularidad_Y_Encapsulamiento\obj\Debug\Modularidad_Y_Encapsulamiento.pdb

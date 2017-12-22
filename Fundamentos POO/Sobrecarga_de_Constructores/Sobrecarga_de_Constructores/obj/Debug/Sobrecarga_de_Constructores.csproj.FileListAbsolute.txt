@@ -1,0 +1,6 @@
+c:\users\cristian\documents\visual studio 2017\Projects\Sobrecarga_de_Constructores\Sobrecarga_de_Constructores\bin\Debug\Sobrecarga_de_Constructores.exe.config
+c:\users\cristian\documents\visual studio 2017\Projects\Sobrecarga_de_Constructores\Sobrecarga_de_Constructores\bin\Debug\Sobrecarga_de_Constructores.exe
+c:\users\cristian\documents\visual studio 2017\Projects\Sobrecarga_de_Constructores\Sobrecarga_de_Constructores\bin\Debug\Sobrecarga_de_Constructores.pdb
+c:\users\cristian\documents\visual studio 2017\Projects\Sobrecarga_de_Constructores\Sobrecarga_de_Constructores\obj\Debug\Sobrecarga_de_Constructores.csprojResolveAssemblyReference.cache
+c:\users\cristian\documents\visual studio 2017\Projects\Sobrecarga_de_Constructores\Sobrecarga_de_Constructores\obj\Debug\Sobrecarga_de_Constructores.exe
+c:\users\cristian\documents\visual studio 2017\Projects\Sobrecarga_de_Constructores\Sobrecarga_de_Constructores\obj\Debug\Sobrecarga_de_Constructores.pdb

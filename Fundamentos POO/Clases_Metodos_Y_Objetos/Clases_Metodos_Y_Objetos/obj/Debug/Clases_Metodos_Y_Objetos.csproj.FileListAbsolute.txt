@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Metodos_Y_Objetos\Clases_Metodos_Y_Objetos\bin\Debug\Clases_Metodos_Y_Objetos.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Metodos_Y_Objetos\Clases_Metodos_Y_Objetos\bin\Debug\Clases_Metodos_Y_Objetos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Metodos_Y_Objetos\Clases_Metodos_Y_Objetos\bin\Debug\Clases_Metodos_Y_Objetos.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Metodos_Y_Objetos\Clases_Metodos_Y_Objetos\obj\Debug\Clases_Metodos_Y_Objetos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Metodos_Y_Objetos\Clases_Metodos_Y_Objetos\obj\Debug\Clases_Metodos_Y_Objetos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Metodos_Y_Objetos\Clases_Metodos_Y_Objetos\obj\Debug\Clases_Metodos_Y_Objetos.pdb

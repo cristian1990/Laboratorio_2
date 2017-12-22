@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Metodos Genericos\Metodos Genericos\bin\Debug\Metodos Genericos.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Metodos Genericos\Metodos Genericos\bin\Debug\Metodos Genericos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Metodos Genericos\Metodos Genericos\bin\Debug\Metodos Genericos.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Metodos Genericos\Metodos Genericos\obj\Debug\Metodos Genericos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Metodos Genericos\Metodos Genericos\obj\Debug\Metodos Genericos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Metodos Genericos\Metodos Genericos\obj\Debug\Metodos Genericos.pdb

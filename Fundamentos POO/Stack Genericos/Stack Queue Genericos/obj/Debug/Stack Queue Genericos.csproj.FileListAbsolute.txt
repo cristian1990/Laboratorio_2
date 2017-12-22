@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Stack Queue Genericos\Stack Queue Genericos\bin\Debug\Stack Queue Genericos.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Stack Queue Genericos\Stack Queue Genericos\bin\Debug\Stack Queue Genericos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Stack Queue Genericos\Stack Queue Genericos\bin\Debug\Stack Queue Genericos.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Stack Queue Genericos\Stack Queue Genericos\obj\Debug\Stack Queue Genericos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Stack Queue Genericos\Stack Queue Genericos\obj\Debug\Stack Queue Genericos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Stack Queue Genericos\Stack Queue Genericos\obj\Debug\Stack Queue Genericos.pdb

@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Medodos_Uso_de_Static\Medodos_Uso_de_Static\obj\Debug\Medodos_Uso_de_Static.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Medodos_Uso_de_Static\Medodos_Uso_de_Static\bin\Debug\Medodos_Uso_de_Static.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Medodos_Uso_de_Static\Medodos_Uso_de_Static\bin\Debug\Medodos_Uso_de_Static.exe
+C:\Users\cristian\Desktop\Proyectos C#\Medodos_Uso_de_Static\Medodos_Uso_de_Static\bin\Debug\Medodos_Uso_de_Static.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Medodos_Uso_de_Static\Medodos_Uso_de_Static\obj\Debug\Medodos_Uso_de_Static.exe
+C:\Users\cristian\Desktop\Proyectos C#\Medodos_Uso_de_Static\Medodos_Uso_de_Static\obj\Debug\Medodos_Uso_de_Static.pdb

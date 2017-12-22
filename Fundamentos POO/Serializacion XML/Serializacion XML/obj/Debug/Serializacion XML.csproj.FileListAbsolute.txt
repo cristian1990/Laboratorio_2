@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion XML\Serializacion XML\bin\Debug\Serializacion XML.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion XML\Serializacion XML\bin\Debug\Serializacion XML.exe
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion XML\Serializacion XML\bin\Debug\Serializacion XML.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion XML\Serializacion XML\obj\Debug\Serializacion XML.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion XML\Serializacion XML\obj\Debug\Serializacion XML.exe
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion XML\Serializacion XML\obj\Debug\Serializacion XML.pdb

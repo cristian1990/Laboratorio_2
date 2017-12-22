@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\CAP8\Metodos\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\CAP8\Metodos\Metodos\bin\Debug\Metodos.exe
+C:\Users\cristian\Desktop\Proyectos C#\CAP8\Metodos\Metodos\bin\Debug\Metodos.pdb
+C:\Users\cristian\Desktop\Proyectos C#\CAP8\Metodos\Metodos\obj\Debug\Metodos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\CAP8\Metodos\Metodos\obj\Debug\Metodos.exe
+C:\Users\cristian\Desktop\Proyectos C#\CAP8\Metodos\Metodos\obj\Debug\Metodos.pdb

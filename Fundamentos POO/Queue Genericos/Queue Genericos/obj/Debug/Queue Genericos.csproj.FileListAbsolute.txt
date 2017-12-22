@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Queue Genericos\Queue Genericos\bin\Debug\Queue Genericos.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Queue Genericos\Queue Genericos\bin\Debug\Queue Genericos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Queue Genericos\Queue Genericos\bin\Debug\Queue Genericos.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Queue Genericos\Queue Genericos\obj\Debug\Queue Genericos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Queue Genericos\Queue Genericos\obj\Debug\Queue Genericos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Queue Genericos\Queue Genericos\obj\Debug\Queue Genericos.pdb

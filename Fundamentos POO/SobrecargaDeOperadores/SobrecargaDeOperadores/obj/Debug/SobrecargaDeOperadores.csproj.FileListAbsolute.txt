@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.exe
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.pdb
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.exe
+C:\Users\cristian\Desktop\Proyectos C#\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.pdb

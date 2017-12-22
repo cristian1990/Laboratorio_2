@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\CAP1\Variables_TiposdeDatos\Variables_TiposdeDatos\obj\Debug\Variables_TiposdeDatos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\CAP1\Variables_TiposdeDatos\Variables_TiposdeDatos\bin\Debug\Variables_TiposdeDatos.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\CAP1\Variables_TiposdeDatos\Variables_TiposdeDatos\bin\Debug\Variables_TiposdeDatos.exe
+C:\Users\cristian\Desktop\Proyectos C#\CAP1\Variables_TiposdeDatos\Variables_TiposdeDatos\bin\Debug\Variables_TiposdeDatos.pdb
+C:\Users\cristian\Desktop\Proyectos C#\CAP1\Variables_TiposdeDatos\Variables_TiposdeDatos\obj\Debug\Variables_TiposdeDatos.exe
+C:\Users\cristian\Desktop\Proyectos C#\CAP1\Variables_TiposdeDatos\Variables_TiposdeDatos\obj\Debug\Variables_TiposdeDatos.pdb

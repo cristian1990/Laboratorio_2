@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Eventos\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Eventos\Eventos\obj\Debug\Eventos.pdb

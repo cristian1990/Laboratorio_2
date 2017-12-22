@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion Binaria\Serializacion Binaria\bin\Debug\Serializacion Binaria.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion Binaria\Serializacion Binaria\bin\Debug\Serializacion Binaria.exe
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion Binaria\Serializacion Binaria\bin\Debug\Serializacion Binaria.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion Binaria\Serializacion Binaria\obj\Debug\Serializacion Binaria.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion Binaria\Serializacion Binaria\obj\Debug\Serializacion Binaria.exe
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion Binaria\Serializacion Binaria\obj\Debug\Serializacion Binaria.pdb

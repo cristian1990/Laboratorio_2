@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Tests Unitarios\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Tests Unitarios\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\cristian\Desktop\Proyectos C#\Tests Unitarios\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Tests Unitarios\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Tests Unitarios\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\cristian\Desktop\Proyectos C#\Tests Unitarios\Operaciones\obj\Debug\Operaciones.pdb

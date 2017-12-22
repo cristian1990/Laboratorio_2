@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas\Listas Genericas\bin\Debug\Listas Genericas.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas\Listas Genericas\bin\Debug\Listas Genericas.exe
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas\Listas Genericas\bin\Debug\Listas Genericas.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas\Listas Genericas\obj\Debug\Listas Genericas.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas\Listas Genericas\obj\Debug\Listas Genericas.exe
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas\Listas Genericas\obj\Debug\Listas Genericas.pdb

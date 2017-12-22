@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion SOAP\Serializacion SOAP\bin\Debug\Serializacion SOAP.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion SOAP\Serializacion SOAP\bin\Debug\Serializacion SOAP.exe
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion SOAP\Serializacion SOAP\bin\Debug\Serializacion SOAP.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion SOAP\Serializacion SOAP\obj\Debug\Serializacion SOAP.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion SOAP\Serializacion SOAP\obj\Debug\Serializacion SOAP.exe
+C:\Users\cristian\Desktop\Proyectos C#\Serializacion SOAP\Serializacion SOAP\obj\Debug\Serializacion SOAP.pdb

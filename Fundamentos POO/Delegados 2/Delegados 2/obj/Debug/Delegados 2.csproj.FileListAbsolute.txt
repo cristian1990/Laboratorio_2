@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Delegados 2\Delegados 2\bin\Debug\Delegados 2.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Delegados 2\Delegados 2\bin\Debug\Delegados 2.exe
+C:\Users\cristian\Desktop\Proyectos C#\Delegados 2\Delegados 2\bin\Debug\Delegados 2.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Delegados 2\Delegados 2\obj\Debug\Delegados 2.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Delegados 2\Delegados 2\obj\Debug\Delegados 2.exe
+C:\Users\cristian\Desktop\Proyectos C#\Delegados 2\Delegados 2\obj\Debug\Delegados 2.pdb

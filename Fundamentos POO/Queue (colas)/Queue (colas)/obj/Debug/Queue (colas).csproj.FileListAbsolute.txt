@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Queue (colas)\Queue (colas)\bin\Debug\Queue (colas).exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Queue (colas)\Queue (colas)\bin\Debug\Queue (colas).exe
+C:\Users\cristian\Desktop\Proyectos C#\Queue (colas)\Queue (colas)\bin\Debug\Queue (colas).pdb
+C:\Users\cristian\Desktop\Proyectos C#\Queue (colas)\Queue (colas)\obj\Debug\Queue (colas).csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Queue (colas)\Queue (colas)\obj\Debug\Queue (colas).exe
+C:\Users\cristian\Desktop\Proyectos C#\Queue (colas)\Queue (colas)\obj\Debug\Queue (colas).pdb

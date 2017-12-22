@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo_2\Polimorfismo_2\bin\Debug\Polimorfismo_2.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo_2\Polimorfismo_2\bin\Debug\Polimorfismo_2.exe
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo_2\Polimorfismo_2\bin\Debug\Polimorfismo_2.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo_2\Polimorfismo_2\obj\Debug\Polimorfismo_2.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo_2\Polimorfismo_2\obj\Debug\Polimorfismo_2.exe
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo_2\Polimorfismo_2\obj\Debug\Polimorfismo_2.pdb

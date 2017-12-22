@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Tipos Anonimos\Tipos Anonimos\bin\Debug\Tipos Anonimos.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Tipos Anonimos\Tipos Anonimos\bin\Debug\Tipos Anonimos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Tipos Anonimos\Tipos Anonimos\bin\Debug\Tipos Anonimos.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Tipos Anonimos\Tipos Anonimos\obj\Debug\Tipos Anonimos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Tipos Anonimos\Tipos Anonimos\obj\Debug\Tipos Anonimos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Tipos Anonimos\Tipos Anonimos\obj\Debug\Tipos Anonimos.pdb

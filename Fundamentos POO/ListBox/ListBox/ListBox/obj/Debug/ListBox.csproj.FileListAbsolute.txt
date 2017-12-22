@@ -1,0 +1,9 @@
+C:\Users\cristian\Desktop\Proyectos C#\ListBox\ListBox\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\ListBox\ListBox\ListBox\bin\Debug\ListBox.exe
+C:\Users\cristian\Desktop\Proyectos C#\ListBox\ListBox\ListBox\bin\Debug\ListBox.pdb
+C:\Users\cristian\Desktop\Proyectos C#\ListBox\ListBox\ListBox\obj\Debug\ListBox.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\ListBox\ListBox\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\cristian\Desktop\Proyectos C#\ListBox\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\cristian\Desktop\Proyectos C#\ListBox\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.Cache
+C:\Users\cristian\Desktop\Proyectos C#\ListBox\ListBox\ListBox\obj\Debug\ListBox.exe
+C:\Users\cristian\Desktop\Proyectos C#\ListBox\ListBox\ListBox\obj\Debug\ListBox.pdb

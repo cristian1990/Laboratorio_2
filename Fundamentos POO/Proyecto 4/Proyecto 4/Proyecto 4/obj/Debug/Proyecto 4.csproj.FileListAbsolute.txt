@@ -1,0 +1,15 @@
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\bin\Debug\EscuelaDB.mdf
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\bin\Debug\EscuelaDB_log.ldf
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\bin\Debug\Proyecto 4.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\bin\Debug\Proyecto 4.exe
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\bin\Debug\Proyecto 4.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\bin\Debug\EntityFramework.dll
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\bin\Debug\EntityFramework.xml
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\obj\Debug\Proyecto 4.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\obj\Debug\Proyecto_4.FormAlumno.resources
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\obj\Debug\Proyecto_4.Properties.Resources.resources
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\obj\Debug\Proyecto 4.csproj.GenerateResource.Cache
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\obj\Debug\Proyecto 4.exe
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 4\Proyecto 4\Proyecto 4\obj\Debug\Proyecto 4.pdb

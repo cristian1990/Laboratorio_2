@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Listas_Clases_Constructores\Listas_Clases_Constructores\bin\Debug\Listas_Clases_Constructores.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Listas_Clases_Constructores\Listas_Clases_Constructores\bin\Debug\Listas_Clases_Constructores.exe
+C:\Users\cristian\Desktop\Proyectos C#\Listas_Clases_Constructores\Listas_Clases_Constructores\bin\Debug\Listas_Clases_Constructores.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Listas_Clases_Constructores\Listas_Clases_Constructores\obj\Debug\Listas_Clases_Constructores.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Listas_Clases_Constructores\Listas_Clases_Constructores\obj\Debug\Listas_Clases_Constructores.exe
+C:\Users\cristian\Desktop\Proyectos C#\Listas_Clases_Constructores\Listas_Clases_Constructores\obj\Debug\Listas_Clases_Constructores.pdb

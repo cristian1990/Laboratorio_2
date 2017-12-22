@@ -1,0 +1,12 @@
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Explicita\Conversion Explicita\bin\Debug\Conversion Explicita.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Explicita\Conversion Explicita\bin\Debug\Conversion Explicita.exe
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Explicita\Conversion Explicita\bin\Debug\Conversion Explicita.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Explicita\Conversion Explicita\obj\Debug\Conversion Explicita.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Explicita\Conversion Explicita\obj\Debug\Conversion Explicita.exe
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Explicita\Conversion Explicita\obj\Debug\Conversion Explicita.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Implicita\Conversion Explicita\bin\Debug\Conversion Explicita.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Implicita\Conversion Explicita\bin\Debug\Conversion Explicita.exe
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Implicita\Conversion Explicita\bin\Debug\Conversion Explicita.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Implicita\Conversion Explicita\obj\Debug\Conversion Explicita.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Implicita\Conversion Explicita\obj\Debug\Conversion Explicita.exe
+C:\Users\cristian\Desktop\Proyectos C#\Conversion Implicita\Conversion Explicita\obj\Debug\Conversion Explicita.pdb

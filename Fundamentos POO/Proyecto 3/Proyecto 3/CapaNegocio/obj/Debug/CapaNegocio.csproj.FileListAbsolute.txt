@@ -1,0 +1,5 @@
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 3\Proyecto 3\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 3\Proyecto 3\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 3\Proyecto 3\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 3\Proyecto 3\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\cristian\Desktop\Proyectos C#\Proyecto 3\Proyecto 3\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Abstractas\Clases_Abstractas\bin\Debug\Clases_Abstractas.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Abstractas\Clases_Abstractas\bin\Debug\Clases_Abstractas.exe
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Abstractas\Clases_Abstractas\bin\Debug\Clases_Abstractas.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Abstractas\Clases_Abstractas\obj\Debug\Clases_Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Abstractas\Clases_Abstractas\obj\Debug\Clases_Abstractas.exe
+C:\Users\cristian\Desktop\Proyectos C#\Clases_Abstractas\Clases_Abstractas\obj\Debug\Clases_Abstractas.pdb

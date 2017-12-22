@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Archivos uso de StreamWriter\Archivos uso de StreamWriter\bin\Debug\Archivos uso de StreamWriter.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Archivos uso de StreamWriter\Archivos uso de StreamWriter\bin\Debug\Archivos uso de StreamWriter.exe
+C:\Users\cristian\Desktop\Proyectos C#\Archivos uso de StreamWriter\Archivos uso de StreamWriter\bin\Debug\Archivos uso de StreamWriter.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Archivos uso de StreamWriter\Archivos uso de StreamWriter\obj\Debug\Archivos uso de StreamWriter.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Archivos uso de StreamWriter\Archivos uso de StreamWriter\obj\Debug\Archivos uso de StreamWriter.exe
+C:\Users\cristian\Desktop\Proyectos C#\Archivos uso de StreamWriter\Archivos uso de StreamWriter\obj\Debug\Archivos uso de StreamWriter.pdb

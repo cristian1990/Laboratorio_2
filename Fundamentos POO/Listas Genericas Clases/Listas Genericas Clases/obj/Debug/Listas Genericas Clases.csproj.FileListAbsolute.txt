@@ -1,0 +1,5 @@
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas Clases\Listas Genericas Clases\bin\Debug\Listas Genericas Clases.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas Clases\Listas Genericas Clases\bin\Debug\Listas Genericas Clases.exe
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas Clases\Listas Genericas Clases\bin\Debug\Listas Genericas Clases.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas Clases\Listas Genericas Clases\obj\Debug\Listas Genericas Clases.exe
+C:\Users\cristian\Desktop\Proyectos C#\Listas Genericas Clases\Listas Genericas Clases\obj\Debug\Listas Genericas Clases.pdb

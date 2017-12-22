@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Metodo_Constructor_y_Destructor\Metodo_Constructor_y_Destructor\bin\Debug\Metodo_Constructor_y_Destructor.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Metodo_Constructor_y_Destructor\Metodo_Constructor_y_Destructor\bin\Debug\Metodo_Constructor_y_Destructor.exe
+C:\Users\cristian\Desktop\Proyectos C#\Metodo_Constructor_y_Destructor\Metodo_Constructor_y_Destructor\bin\Debug\Metodo_Constructor_y_Destructor.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Metodo_Constructor_y_Destructor\Metodo_Constructor_y_Destructor\obj\Debug\Metodo_Constructor_y_Destructor.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Metodo_Constructor_y_Destructor\Metodo_Constructor_y_Destructor\obj\Debug\Metodo_Constructor_y_Destructor.exe
+C:\Users\cristian\Desktop\Proyectos C#\Metodo_Constructor_y_Destructor\Metodo_Constructor_y_Destructor\obj\Debug\Metodo_Constructor_y_Destructor.pdb

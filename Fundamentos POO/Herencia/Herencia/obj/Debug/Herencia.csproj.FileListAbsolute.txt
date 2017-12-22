@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\cristian\Desktop\Proyectos C#\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Herencia\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\cristian\Desktop\Proyectos C#\Herencia\Herencia\obj\Debug\Herencia.pdb

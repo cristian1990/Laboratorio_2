@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable e IEnumerator 2\Interface IEnumerable e IEnumerator 2\bin\Debug\Interface IEnumerable e IEnumerator 2.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable e IEnumerator 2\Interface IEnumerable e IEnumerator 2\bin\Debug\Interface IEnumerable e IEnumerator 2.exe
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable e IEnumerator 2\Interface IEnumerable e IEnumerator 2\bin\Debug\Interface IEnumerable e IEnumerator 2.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable e IEnumerator 2\Interface IEnumerable e IEnumerator 2\obj\Debug\Interface IEnumerable e IEnumerator 2.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable e IEnumerator 2\Interface IEnumerable e IEnumerator 2\obj\Debug\Interface IEnumerable e IEnumerator 2.exe
+C:\Users\cristian\Desktop\Proyectos C#\Interface IEnumerable e IEnumerator 2\Interface IEnumerable e IEnumerator 2\obj\Debug\Interface IEnumerable e IEnumerator 2.pdb

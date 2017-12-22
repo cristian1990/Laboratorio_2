@@ -1,0 +1,9 @@
+C:\Users\cristian\Desktop\Proyectos C#\RichTextBox 2\RichTextBox 2\obj\Debug\RichTextBox 2.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\RichTextBox 2\RichTextBox 2\obj\Debug\RichTextBox_2.Form1.resources
+C:\Users\cristian\Desktop\Proyectos C#\RichTextBox 2\RichTextBox 2\obj\Debug\RichTextBox_2.Properties.Resources.resources
+C:\Users\cristian\Desktop\Proyectos C#\RichTextBox 2\RichTextBox 2\obj\Debug\RichTextBox 2.csproj.GenerateResource.Cache
+C:\Users\cristian\Desktop\Proyectos C#\RichTextBox 2\RichTextBox 2\bin\Debug\RichTextBox 2.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\RichTextBox 2\RichTextBox 2\bin\Debug\RichTextBox 2.exe
+C:\Users\cristian\Desktop\Proyectos C#\RichTextBox 2\RichTextBox 2\bin\Debug\RichTextBox 2.pdb
+C:\Users\cristian\Desktop\Proyectos C#\RichTextBox 2\RichTextBox 2\obj\Debug\RichTextBox 2.exe
+C:\Users\cristian\Desktop\Proyectos C#\RichTextBox 2\RichTextBox 2\obj\Debug\RichTextBox 2.pdb

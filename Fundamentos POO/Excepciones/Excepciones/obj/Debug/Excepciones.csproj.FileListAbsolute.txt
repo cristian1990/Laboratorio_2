@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Excepciones\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Excepciones\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\cristian\Desktop\Proyectos C#\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Excepciones\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Excepciones\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\cristian\Desktop\Proyectos C#\Excepciones\Excepciones\obj\Debug\Excepciones.pdb

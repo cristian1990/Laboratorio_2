@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Ejercicio_Clases_Alumnos\Ejercicio_Clases_Alumnos\bin\Debug\Ejercicio_Clases_Alumnos.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Ejercicio_Clases_Alumnos\Ejercicio_Clases_Alumnos\bin\Debug\Ejercicio_Clases_Alumnos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Ejercicio_Clases_Alumnos\Ejercicio_Clases_Alumnos\bin\Debug\Ejercicio_Clases_Alumnos.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Ejercicio_Clases_Alumnos\Ejercicio_Clases_Alumnos\obj\Debug\Ejercicio_Clases_Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Ejercicio_Clases_Alumnos\Ejercicio_Clases_Alumnos\obj\Debug\Ejercicio_Clases_Alumnos.exe
+C:\Users\cristian\Desktop\Proyectos C#\Ejercicio_Clases_Alumnos\Ejercicio_Clases_Alumnos\obj\Debug\Ejercicio_Clases_Alumnos.pdb

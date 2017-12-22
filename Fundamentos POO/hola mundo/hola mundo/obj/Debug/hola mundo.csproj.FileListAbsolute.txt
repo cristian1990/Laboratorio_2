@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\hola mundo\hola mundo\bin\Debug\hola mundo.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\hola mundo\hola mundo\bin\Debug\hola mundo.exe
+C:\Users\cristian\Desktop\Proyectos C#\hola mundo\hola mundo\bin\Debug\hola mundo.pdb
+C:\Users\cristian\Desktop\Proyectos C#\hola mundo\hola mundo\obj\Debug\hola mundo.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\hola mundo\hola mundo\obj\Debug\hola mundo.exe
+C:\Users\cristian\Desktop\Proyectos C#\hola mundo\hola mundo\obj\Debug\hola mundo.pdb

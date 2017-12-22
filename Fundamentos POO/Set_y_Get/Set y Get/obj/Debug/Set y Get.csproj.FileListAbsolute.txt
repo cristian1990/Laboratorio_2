@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Set_y_Get\Set y Get\bin\Debug\Set y Get.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Set_y_Get\Set y Get\bin\Debug\Set y Get.exe
+C:\Users\cristian\Desktop\Proyectos C#\Set_y_Get\Set y Get\bin\Debug\Set y Get.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Set_y_Get\Set y Get\obj\Debug\Set y Get.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Set_y_Get\Set y Get\obj\Debug\Set y Get.exe
+C:\Users\cristian\Desktop\Proyectos C#\Set_y_Get\Set y Get\obj\Debug\Set y Get.pdb

@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Metodos De Extension\Metodos De Extension\bin\Debug\Metodos De Extension.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Metodos De Extension\Metodos De Extension\bin\Debug\Metodos De Extension.exe
+C:\Users\cristian\Desktop\Proyectos C#\Metodos De Extension\Metodos De Extension\bin\Debug\Metodos De Extension.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Metodos De Extension\Metodos De Extension\obj\Debug\Metodos De Extension.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Metodos De Extension\Metodos De Extension\obj\Debug\Metodos De Extension.exe
+C:\Users\cristian\Desktop\Proyectos C#\Metodos De Extension\Metodos De Extension\obj\Debug\Metodos De Extension.pdb

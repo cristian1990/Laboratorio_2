@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Indexadores\Indexadores\bin\Debug\Indexadores.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Indexadores\Indexadores\bin\Debug\Indexadores.exe
+C:\Users\cristian\Desktop\Proyectos C#\Indexadores\Indexadores\bin\Debug\Indexadores.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Indexadores\Indexadores\obj\Debug\Indexadores.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Indexadores\Indexadores\obj\Debug\Indexadores.exe
+C:\Users\cristian\Desktop\Proyectos C#\Indexadores\Indexadores\obj\Debug\Indexadores.pdb

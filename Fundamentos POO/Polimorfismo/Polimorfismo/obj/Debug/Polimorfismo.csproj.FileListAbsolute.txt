@@ -1,0 +1,5 @@
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\cristian\Desktop\Proyectos C#\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb

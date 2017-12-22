@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Bool\Bool\bin\Debug\Bool.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Bool\Bool\bin\Debug\Bool.exe
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Bool\Bool\bin\Debug\Bool.pdb
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Bool\Bool\obj\Debug\Bool.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Bool\Bool\obj\Debug\Bool.exe
+C:\Users\cristian\Desktop\Proyectos C#\CAP3\Bool\Bool\obj\Debug\Bool.pdb

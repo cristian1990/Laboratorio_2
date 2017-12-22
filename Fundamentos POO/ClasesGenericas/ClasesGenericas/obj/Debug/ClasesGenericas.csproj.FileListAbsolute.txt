@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.pdb
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.exe
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.pdb

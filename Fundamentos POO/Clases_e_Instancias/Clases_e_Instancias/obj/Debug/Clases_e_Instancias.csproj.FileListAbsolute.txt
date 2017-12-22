@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Clases_e_Instancias\Clases_e_Instancias\bin\Debug\Clases_e_Instancias.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Clases_e_Instancias\Clases_e_Instancias\bin\Debug\Clases_e_Instancias.exe
+C:\Users\cristian\Desktop\Proyectos C#\Clases_e_Instancias\Clases_e_Instancias\bin\Debug\Clases_e_Instancias.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Clases_e_Instancias\Clases_e_Instancias\obj\Debug\Clases_e_Instancias.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Clases_e_Instancias\Clases_e_Instancias\obj\Debug\Clases_e_Instancias.exe
+C:\Users\cristian\Desktop\Proyectos C#\Clases_e_Instancias\Clases_e_Instancias\obj\Debug\Clases_e_Instancias.pdb

@@ -1,0 +1,9 @@
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ConectarBaseDeDatos\ConectarBaseDeDatos\bin\Debug\ConectarBaseDeDatos.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ConectarBaseDeDatos\ConectarBaseDeDatos\bin\Debug\ConectarBaseDeDatos.exe
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ConectarBaseDeDatos\ConectarBaseDeDatos\bin\Debug\ConectarBaseDeDatos.pdb
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ConectarBaseDeDatos\ConectarBaseDeDatos\obj\Debug\ConectarBaseDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ConectarBaseDeDatos\ConectarBaseDeDatos\obj\Debug\ConectarBaseDeDatos.Form1.resources
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ConectarBaseDeDatos\ConectarBaseDeDatos\obj\Debug\ConectarBaseDeDatos.Properties.Resources.resources
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ConectarBaseDeDatos\ConectarBaseDeDatos\obj\Debug\ConectarBaseDeDatos.csproj.GenerateResource.Cache
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ConectarBaseDeDatos\ConectarBaseDeDatos\obj\Debug\ConectarBaseDeDatos.exe
+C:\Users\cristian\Desktop\Proyectos C#\1 PARCIAL\ConectarBaseDeDatos\ConectarBaseDeDatos\obj\Debug\ConectarBaseDeDatos.pdb

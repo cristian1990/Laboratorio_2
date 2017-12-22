@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\ExcepcionesPrueba\ExcepcionesPrueba\obj\Debug\ExcepcionesPrueba.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\ExcepcionesPrueba\ExcepcionesPrueba\bin\Debug\ExcepcionesPrueba.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\ExcepcionesPrueba\ExcepcionesPrueba\bin\Debug\ExcepcionesPrueba.exe
+C:\Users\cristian\Desktop\Proyectos C#\ExcepcionesPrueba\ExcepcionesPrueba\bin\Debug\ExcepcionesPrueba.pdb
+C:\Users\cristian\Desktop\Proyectos C#\ExcepcionesPrueba\ExcepcionesPrueba\obj\Debug\ExcepcionesPrueba.exe
+C:\Users\cristian\Desktop\Proyectos C#\ExcepcionesPrueba\ExcepcionesPrueba\obj\Debug\ExcepcionesPrueba.pdb

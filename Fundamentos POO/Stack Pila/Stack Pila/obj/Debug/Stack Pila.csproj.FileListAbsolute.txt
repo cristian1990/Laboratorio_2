@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\Proyectos C#\Stack Pila\Stack Pila\bin\Debug\Stack Pila.exe.config
+C:\Users\cristian\Desktop\Proyectos C#\Stack Pila\Stack Pila\bin\Debug\Stack Pila.exe
+C:\Users\cristian\Desktop\Proyectos C#\Stack Pila\Stack Pila\bin\Debug\Stack Pila.pdb
+C:\Users\cristian\Desktop\Proyectos C#\Stack Pila\Stack Pila\obj\Debug\Stack Pila.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Proyectos C#\Stack Pila\Stack Pila\obj\Debug\Stack Pila.exe
+C:\Users\cristian\Desktop\Proyectos C#\Stack Pila\Stack Pila\obj\Debug\Stack Pila.pdb
