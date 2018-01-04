@@ -1,0 +1,6 @@
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 13\SP-Cartas-Alumno\Apellido.Nombre.Div\EntidadesHechas\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 13\SP-Cartas-Alumno\Apellido.Nombre.Div\EntidadesHechas\obj\Debug\EntidadesHechas.dll
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 13\SP-Cartas-Alumno\Apellido.Nombre.Div\EntidadesHechas\obj\Debug\EntidadesHechas.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 13\SP-Cartas-Alumno\Apellido.Nombre.Div\EntidadesHechas\bin\Debug\EntidadesHechas.dll.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 13\SP-Cartas-Alumno\Apellido.Nombre.Div\EntidadesHechas\bin\Debug\EntidadesHechas.dll
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 13\SP-Cartas-Alumno\Apellido.Nombre.Div\EntidadesHechas\bin\Debug\EntidadesHechas.pdb
