@@ -1,0 +1,24 @@
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\bin\Debug\FormTest.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\bin\Debug\FormTest.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\bin\Debug\FormTest.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.Form1.resources
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\bin\Debug\Entidades.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\bin\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\FormTest\bin\Debug\Entidades.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\bin\Debug\FormTest.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\bin\Debug\FormTest.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\bin\Debug\FormTest.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\bin\Debug\Entidades.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\bin\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\bin\Debug\Entidades.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.Form1.resources
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\FormTest\obj\Debug\FormTest.pdb

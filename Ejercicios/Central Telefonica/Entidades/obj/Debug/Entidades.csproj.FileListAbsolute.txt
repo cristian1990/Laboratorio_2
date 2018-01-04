@@ -1,0 +1,11 @@
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\Entidades\bin\Debug\Entidades.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\Entidades\obj\Debug\Entidades.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\CENTRALITA\Centralita\Entidades\obj\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\Entidades\bin\Debug\Entidades.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\Entidades\obj\Debug\Entidades.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\2 EJERCICIOS\CENTRALITA\Centralita\Entidades\obj\Debug\Entidades.pdb
