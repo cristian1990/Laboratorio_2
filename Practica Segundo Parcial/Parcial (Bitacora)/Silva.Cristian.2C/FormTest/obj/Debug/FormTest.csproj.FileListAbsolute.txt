@@ -1,0 +1,24 @@
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\FormTest.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\FormTest.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\FormTest.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.FrmPpal.resources
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\Entidades.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\Entidades.exe.config
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\FormTest.exe.config
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\FormTest.exe
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\FormTest.pdb
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\Entidades.exe
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\bin\Debug\Entidades.exe.config
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.FrmPpal.resources
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.exe
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\FormTest\obj\Debug\FormTest.pdb

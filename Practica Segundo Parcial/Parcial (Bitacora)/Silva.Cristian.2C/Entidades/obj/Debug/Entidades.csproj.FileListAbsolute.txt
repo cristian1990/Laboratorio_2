@@ -1,0 +1,12 @@
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\Entidades\bin\Debug\Entidades.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\Entidades\obj\Debug\Entidades.exe
+C:\Users\cristian\Desktop\REPASO LABORATORIO\MODELO 9\Silva.Cristian.2C\Entidades\obj\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\Entidades\bin\Debug\Entidades.exe
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\Entidades\obj\Debug\Entidades.exe
+C:\Users\cristian\Desktop\MODELO 9\Silva.Cristian.2C\Entidades\obj\Debug\Entidades.pdb
